@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "SendViaTransfer",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sendeth.sol": "sendEther"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sendeth.sol": {
+			"keccak256": "0xd6ebdc14f2c2ec8c94c3646a769909eef39e8ff4dec17a6df63accdb19e52850",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0a6fcef85fb52a6b206119d666e342303d659e6eb031e8be1d524f812a93c419",
+				"dweb:/ipfs/QmXi1qKkdy6oE7FJ2e7j4nXDj7nooorQj8xnNdevo86N9R"
+			]
+		}
+	},
+	"version": 1
+}

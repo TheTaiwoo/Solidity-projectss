@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "joy",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "vee",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/tee.sol": "tee"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/tee.sol": {
+			"keccak256": "0x47b8b85df13d104446171f8ec45e83ec15f5d1eaf4df61bbcc718450b18a0043",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://32f914d1a2e550c8446d1dc1d85f619e1ad0bb2cef5881a3b55a7550e4d1e6f4",
+				"dweb:/ipfs/QmSvRzMpKsmZ7UKHar4SG5njCKZwJQjauvxzvgjsyFUSNQ"
+			]
+		}
+	},
+	"version": 1
+}

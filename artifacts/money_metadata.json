@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "viaSendCall",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sendmony.sol": "money"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sendmony.sol": {
+			"keccak256": "0xdee06b303e0efb54644154ca665a5f85921ed0d939a9699e828b2b5ecf0be28b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9e580100f538fe1c1f6dc2c9b0ac478e4c4351206d03c4a4715c71313f3e179c",
+				"dweb:/ipfs/QmSUbEXgpEsbF3qLuiD8wvNcJiB7KRS63yWUTUxC8hQV8N"
+			]
+		}
+	},
+	"version": 1
+}

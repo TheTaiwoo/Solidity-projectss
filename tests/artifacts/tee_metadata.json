@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/Taiwo1.sol": "tee"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/Taiwo1.sol": {
+			"keccak256": "0x6ba6921b29525c4fb15556326c6c3459928951962ef27229bb91a8dfc2bf99cc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://999723566e9f5fd39e15b1b571780c1f0e9bf772a5cba7c64bd098395814be0f",
+				"dweb:/ipfs/QmRpFy2kRR4yszQDAEfdNqxaanZ66BoK3EZNexDwhVef6N"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "tech4dev",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"taiwo.sol": "mak"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"taiwo.sol": {
+			"keccak256": "0xf57233f513334f8de81ad34d5c629cba1d9f84ae04b132cea66473356c43c217",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://50e72bc29fed1ad509d002ed73d0ecb00cbee4429cd9cd46da08a9b927367c30",
+				"dweb:/ipfs/QmfVLMLzGhc9a4ycfqGhamJyU7X5rtBY4iYj1MdssySf7D"
+			]
+		}
+	},
+	"version": 1
+}
